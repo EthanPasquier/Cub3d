@@ -1,0 +1,9 @@
+NO ./map/texture/Brick.xpm42
+EA ./map/texture/Green.xpm42
+WE ./map/texture/Cracked.xpm42
+SO ./map/texture/Wooden.xpm42
+F 200,200,200
+C 255,00,0
+
+11111111
+11111111

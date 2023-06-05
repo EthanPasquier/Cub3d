@@ -1,0 +1,11 @@
+
+F 0,0,50
+NO ./map/texture/Brick.xpm42
+EA ./map/texture/Cracked.xpm42
+WE ./map/texture/Wooden.xpm42
+SO ./map/texture/epasquie.xpm42
+C 48, 213, 200
+
+111
+1E1
+111
